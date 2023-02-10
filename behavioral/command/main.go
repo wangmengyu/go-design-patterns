@@ -8,8 +8,7 @@ import (
 
 func main() {
 	tv := device.Tv{}
-	// 命令->设备。
-	// 用按钮驱动？
+	// 用按钮驱动
 	onCmd := command.OnCommand{
 		Device: &tv,
 	}
