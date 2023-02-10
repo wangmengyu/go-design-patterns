@@ -1,3 +1,3 @@
 module design_patterns
 
-go 1.14
+go 1.19
